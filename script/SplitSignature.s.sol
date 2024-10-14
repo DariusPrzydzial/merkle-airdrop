@@ -26,7 +26,7 @@ contract SplitSignature is Script {
         }
     }
 
-    function run() external {
+    function run() external view {
         string memory sig = vm.readFile("signature.txt");
         bytes memory sigBytes = vm.parseBytes(sig);
         (uint8 v, bytes32 r, bytes32 s) = splitSignature(sigBytes);

@@ -1,8 +1,11 @@
 # Merkle Airdrop Extravaganza 
 
-This is a section of the [Cyfrin Updraft Advanced Foundry Course](https://updraft.cyfrin.io/). In this repo, we will learn about signatures, merkle drops, and more. 
+#### In this repo, we will learn about signature verifications, Secp256k1, merkle drops, EIP-712, zkSync account abstraction, and more.    
+#### This is a section of the [Cyfrin Updraft Advanced Foundry Course](https://updraft.cyfrin.io/).     
 
 - [Merkle Airdrop Extravaganza](#merkle-airdrop-extravaganza)
+      - [In this repo, we will learn about signatures, Secp256k1, merkle drops, account abstraction, zkSync, and more.](#in-this-repo-we-will-learn-about-signatures-secp256k1-merkle-drops-account-abstraction-zksync-and-more)
+      - [This is a section of the Cyfrin Updraft Advanced Foundry Course.](#this-is-a-section-of-the-cyfrin-updraftadvanced-foundry-course)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
